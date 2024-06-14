@@ -1,0 +1,4 @@
+www.cs.wisc.edu 80 /
+localhost 5003 /home.html
+localhost 5003 /home.html
+www.cs.wisc.edu 80 /
